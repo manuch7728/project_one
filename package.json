@@ -1,0 +1,23 @@
+{
+  "name": "project_one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuch7728/project_one.git"
+  },
+  "author": "Manu Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuch7728/project_one/issues"
+  },
+  "homepage": "https://github.com/manuch7728/project_one#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
