@@ -18,6 +18,7 @@
   "homepage": "https://github.com/manuch7728/project_one#readme",
   "dependencies": {
     "cookie-parser": "^1.4.7",
+    "ejs": "^3.1.10",
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
   }
